@@ -1,20 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package back;
 
 import java.util.Random;
 
-/**
- *
- * @author Ing-Sis
- */
 public class BusquedaRecursiva {
 
-    /**
-     * @param args the command line arguments
-     */
     
     private int[] vector;
     private int[] longitud;
